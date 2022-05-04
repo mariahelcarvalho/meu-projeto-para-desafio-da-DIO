@@ -2,4 +2,4 @@
 ## Repositorio Meu Primeiro Projeto com Git/GitHub
 
 Links Úteis 
- Pesquisar no GitHub(https://docs.github.com/pt/search-github)
+( Pesquisar no GitHub)(https://docs.github.com/pt/search-github)
